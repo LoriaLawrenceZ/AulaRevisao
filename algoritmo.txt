@@ -1,0 +1,18 @@
+-----------------Exemplo 1-----------------
+Calcular a Nota(2 Notas) e a Frequência(total aula e faltas) de um Aluno
+    1°- Ler a PRIMEIRA NOTA
+    2°- Ler a SEGUNDA NOTA
+    3°- Calcular a MÉDIA
+    4°- MOSTRAR a MÉDIA do aluno
+    5°- Ler o TOTAL de AULAS da disciplina
+    6°- Ler o TOTAL de FALTAS do Aluno
+    7°- Calcular a PORCENTAGEM de Frequência
+    8°- MOSTRAR a PORCENTAGEM de Frequência
+    9°- SE MEDIA>=50 e FREQUÊNCIA>=75 então
+        MOSTRE ALUNO APROVADO nos quesitos NOTA e FREQUÊNCIA
+    10°- SE MEDIA>=50 e FREQUÊNCIA<75 então
+        MOSTRE ALUNO REPROVADO. APROVADO nas NOTAS, REPROVADO na FREQUENCIA
+    11°- SE MEDIA<50 e FREQUÊNCIA>=75 então
+        MOSTRE ALUNO REPROVADO. REPROVADO nas NOTAS, APROVADO na FREQUENCIA
+    12°- SE MEDIA<50 e FREQUÊNCIA<75 então
+        MOSTRE ALUNO REPROVADO. REPROVADO nas NOTAS, REPROVADO na FREQUENCIA
